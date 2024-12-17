@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"vpc","Source":"registry.terraform.io/terraform-aws-modules/vpc/aws","Version":"5.16.0","Dir":".terraform/modules/vpc"},{"Key":"web-app-s3","Source":"./modules/globo-web-app-s3","Dir":"modules/globo-web-app-s3"}]}
